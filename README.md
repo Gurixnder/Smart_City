@@ -1,5 +1,6 @@
 # Smart_City
-Smart City implemented using Raspberry Pi.
+Smart City implemented using Raspberry Pi. 
+The Goal of this sytem is to create a sustainable, enrgy and time efficient city which puts its residents first and improves the quality of their lives.
 
 The applications implemented in Smart City are mentioned below:
   # Flame detection
@@ -18,4 +19,9 @@ The applications implemented in Smart City are mentioned below:
     - The data is sent to dashboard where it is displayed on a grpah.
     - Using data generated from AI, a prediction of the temperature and humidity is made.
   # Traffic Lights
-    - These traffic light are controlled using a motion sensor 
+    - These traffic light are controlled using a PIR motion sensor that detects motion of things with body heat only.
+    - It is installed in school zones based on school timings to aid students cross without pressing buttons. And as soon as they all cross and
+      no body heat is detected, the traffic light turns green.
+  # Smart street lights
+    - Use PIR sensor to detect the body heat of a pedestrian walking on a street.
+    - Strretlights only work when soomeone's present on the streets.
