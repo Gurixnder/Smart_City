@@ -25,3 +25,5 @@ The applications implemented in Smart City are mentioned below:
   # Smart street lights
     - Use PIR sensor to detect the body heat of a pedestrian walking on a street.
     - Strretlights only work when soomeone's present on the streets.
+
+  # For more detailed explanations please refer to the technical report.
